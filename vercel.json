@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/ebook.html" },
+    { "source": "/(.*)", "destination": "/ebook.html" }
+  ]
+}
